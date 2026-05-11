@@ -1,4 +1,3 @@
-# Northstar-Analytics
 # NorthStar Urban Mobility and Logistics Analytics
 
 This repository contains coursework implementation for the NorthStar Urban Mobility and Logistics case study.
